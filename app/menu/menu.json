@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "chicken-promogranate-salad",
+    "name": "Chicken  Salad",
+    "img": "buffet.png",
+    "calories": 430,
+    "rating": 4.1
+  },
+
+  {
+    "id": "strawberry-pudding",
+    "name": "Strawberry Pudding",
+    "img": "elaicheesecake.png",
+    "calories": 280,
+    "rating": 5
+  },
+  {
+    "id": "Mango-Lassing-pudding",
+    "name": "Mango Lassi with kajju",
+    "img": "zucchipakoda.png",
+    "calories": 380,
+    "rating": 5
+  },
+  {
+    "id": "Chana-Masala",
+    "name": "Chana-Masala with kajju",
+    "img": "vadonut.png",
+    "calories": 380,
+    "rating": 3
+  },
+  {
+    "id": "Priyanka special-pudding",
+    "name": "Priyanka special",
+    "img": "uthapizza.png",
+    "calories": 380,
+    "rating": 4
+  }
+]

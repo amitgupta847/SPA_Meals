@@ -1,0 +1,20 @@
+<div  class="row">
+    <div class="col-sm-2" ng-repeat="(day, menuCategory) in order.list"
+          ng-click="order.setActiveDay(day)">
+        {{day}}
+        <dl>
+            <dt>Breakfast</dt>
+            <dd>{{menuCategory.breakfast}}</dd>
+
+            <dt>Lunch</dt>
+            <dd>{{menuCategory.lunch}}</dd>
+
+            <dt>Dinner</dt>
+            <dd>{{menuCategory.dinner}}</dd>
+        </dl>
+        <!--<button ng-if="menuCategory.breakfast"
+                ng-click="order.removeMenuOption(day,menuCategory.breakfast )">
+            ad
+        </button>-->
+    </div>
+</div>
